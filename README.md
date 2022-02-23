@@ -18,11 +18,8 @@ git submodule add https://github.com/linjieFE/components.git
 ```
 git submodule update --init --recursive
 ````
-如果不是第一次代取 去掉`--init`
-```
-git submodule update --recursive
-````
-拉取submodule更新
+
+* 拉取submodule更新
 
 ```
 git submodule update --remote

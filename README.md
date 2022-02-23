@@ -22,3 +22,8 @@ git submodule update --init --recursive
 ```
 git submodule update --recursive
 ````
+拉取submodule更新
+
+```
+git submodule update --remote
+```
